@@ -1,0 +1,33 @@
+@media (max-width: 1280px) {
+	.font-size-20 {
+		font-size: 22px;
+	}
+}
+
+.orange {
+	background-color: orange;
+}
+
+.red {
+	background-color: red;
+}
+
+a.uaborderlink:link {
+    color: #FFFFFF;
+}
+
+a.uaborderlink:visited {
+    color: #FFFFFF;
+}
+
+a.uaborderlink:hover {
+    color: #FFFFFF;
+}
+
+a.uaborderlink:active {
+    color: #FFFFFF;
+}
+
+.custom-green {
+    background-color: #98e3a9;
+}
